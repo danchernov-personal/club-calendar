@@ -1,0 +1,430 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//club-calendar//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Урал — матчи
+X-WR-CALDESC:Все матчи Урал во всех турнирах. И
+ сточники: fnl.pro\, sports.ru
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-fc-chelyabinsk-h-1@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260704T100000Z
+DTEND:20260704T120000Z
+SUMMARY:Урал 1:1 Челябинск
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/1949142/
+URL:https://www.sports.ru/football/match/1949142/
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7084@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260713T140000Z
+DTEND:20260713T160000Z
+SUMMARY:Урал 0:1 Торпедо Москва
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 1-й тур (сезон 2026/2027)\nСудья: Хар
+ итонов Владислав\nhttps://fnl.pro/pari/matches/7084
+URL:https://fnl.pro/pari/matches/7084
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7089@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260719T120000Z
+DTEND:20260719T140000Z
+SUMMARY:Урал 3:0 Енисей
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 2-й тур (сезон 2026/2027)\nСудья: Маш
+ лякевич Александр\nhttps://fnl.pro/pari/matches/7089
+URL:https://fnl.pro/pari/matches/7089
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7098@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:Ленинградец 0:0 Урал
+LOCATION:«Рощино Арена»\, Рощино
+DESCRIPTION:ФНЛ\, 3-й тур (сезон 2026/2027)\nСудья: Жур
+ авлев Олег\nhttps://fnl.pro/pari/matches/7098
+URL:https://fnl.pro/pari/matches/7098
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7109@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260802T080000Z
+DTEND:20260802T100000Z
+SUMMARY:СКА-Хабаровск 0:3 Урал
+LOCATION:«Имени В.И. Ленина»\, Хабаровск
+DESCRIPTION:ФНЛ\, 4-й тур (сезон 2026/2027)\nСудья: Зия
+ ков Ранэль\nhttps://fnl.pro/pari/matches/7109
+URL:https://fnl.pro/pari/matches/7109
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7119@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260808T140000Z
+DTEND:20260808T160000Z
+SUMMARY:Урал 3:0 Уфа
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 5-й тур (сезон 2026/2027)\nСудья: Фед
+ отов Сергей\nhttps://fnl.pro/pari/matches/7119
+URL:https://fnl.pro/pari/matches/7119
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7126@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260814T163000Z
+DTEND:20260814T183000Z
+SUMMARY:Ротор 1:1 Урал
+LOCATION:«Волгоград Арена»\, Волгоград
+DESCRIPTION:ФНЛ\, 6-й тур (сезон 2026/2027)\nСудья: Хар
+ итонов Владислав\nhttps://fnl.pro/pari/matches/7126
+URL:https://fnl.pro/pari/matches/7126
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7145@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260822T093000Z
+DTEND:20260822T113000Z
+SUMMARY:Урал 2:0 Текстильщик
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 8-й тур (сезон 2026/2027)\nСудья: Шиш
+ кин Павел\nhttps://fnl.pro/pari/matches/7145
+URL:https://fnl.pro/pari/matches/7145
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7165@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Арсенал 2:2 Урал
+LOCATION:«Арсенал»\, Тула
+DESCRIPTION:ФНЛ\, 9-й тур (сезон 2026/2027)\nСудья: Сид
+ орин Антон\nhttps://fnl.pro/pari/matches/7165
+URL:https://fnl.pro/pari/matches/7165
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7236@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260906T120000Z
+DTEND:20260906T140000Z
+SUMMARY:Урал 2:0 КАМАЗ
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 10-й тур (сезон 2026/2027)\nСудья: Гу
+ саков Олег\nhttps://fnl.pro/pari/matches/7236
+URL:https://fnl.pro/pari/matches/7236
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-luki-energiya-a-1@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260910T133000Z
+DTEND:20260910T153000Z
+SUMMARY:Луки-Энергия 2:1 Урал
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/luki-energiya-vs-ural/
+URL:https://www.sports.ru/football/match/luki-energiya-vs-ural/
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7252@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260914T153000Z
+DTEND:20260914T173000Z
+SUMMARY:Шинник 1:1 Урал
+LOCATION:«Шинник»\, Ярославль
+DESCRIPTION:ФНЛ\, 11-й тур (сезон 2026/2027)\nСудья: Зи
+ яков Ранэль\nhttps://fnl.pro/pari/matches/7252
+URL:https://fnl.pro/pari/matches/7252
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7270@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260918T150000Z
+DTEND:20260918T170000Z
+SUMMARY:Нефтехимик 0:1 Урал
+LOCATION:«Нефтехимик»\, Нижнекамск
+DESCRIPTION:ФНЛ\, 12-й тур (сезон 2026/2027)\nСудья: Во
+ лошин Николай\nhttps://fnl.pro/pari/matches/7270
+URL:https://fnl.pro/pari/matches/7270
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7134@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20260926T113000Z
+DTEND:20260926T133000Z
+SUMMARY:Спартак (Кострома) 1:2 Урал
+LOCATION:«Арена Химки»\, Химки
+DESCRIPTION:ФНЛ\, 7-й тур (сезон 2026/2027)\nСудья: Мат
+ веев Станислав Ильич\nhttps://fnl.pro/pari/matches/7134
+URL:https://fnl.pro/pari/matches/7134
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7295@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20261010T090000Z
+DTEND:20261010T110000Z
+SUMMARY:Урал – Велес
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 13-й тур (сезон 2026/2027)\nСудья: Мо
+ лдован Виталий\nГде смотреть:\nМатч ТВ: http
+ s://matchtv.ru/on-air\nКинопоиск: https://hd.kinopoisk.ru/sport/e
+ vent/37947/\nБилеты: https://widget.afisha.yandex.ru/w/sessions/Mzc4
+ OHw4OTExMjR8NzkxNjU3NnwxNzkxNjIyODAwMDAw?clientKey=06989048-8084-4c22-a03c
+ -afd5f8ba94f6\nhttps://fnl.pro/pari/matches/7295
+URL:https://fnl.pro/pari/matches/7295
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7310@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Урал – Нижний Новгород
+LOCATION:«Екатеринбург Арена»\, Екатеринбург
+DESCRIPTION:ФНЛ\, 14-й тур (сезон 2026/2027)\nБилеты: htt
+ ps://widget.afisha.yandex.ru/w/sessions/Mzc4OHw5MDAzMDV8NzkxNjU3NnwxNzkyMz
+ E3NjAwMDAw?clientKey=06989048-8084-4c22-a03c-afd5f8ba94f6\nhttps://fnl.pro
+ /pari/matches/7310
+URL:https://fnl.pro/pari/matches/7310
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7354@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Челябинск – Урал
+DESCRIPTION:ФНЛ\, 15-й тур (сезон 2026/2027)\nВремя нач
+ ала ещё не объявлено.\nhttps://fnl.pro/pari/matches/7354
+URL:https://fnl.pro/pari/matches/7354
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7364@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Сочи – Урал
+DESCRIPTION:ФНЛ\, 16-й тур (сезон 2026/2027)\nВремя нач
+ ала ещё не объявлено.\nhttps://fnl.pro/pari/matches/7364
+URL:https://fnl.pro/pari/matches/7364
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7379@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Волга
+DESCRIPTION:ФНЛ\, 17-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 06.11 и 08.11
+ .\nhttps://fnl.pro/pari/matches/7379
+URL:https://fnl.pro/pari/matches/7379
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7363@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Уфа – Урал
+DESCRIPTION:ФНЛ\, 18-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 20.11 и 23.11
+ .\nhttps://fnl.pro/pari/matches/7363
+URL:https://fnl.pro/pari/matches/7363
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7349@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Арсенал
+DESCRIPTION:ФНЛ\, 19-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 24.11 и 26.11
+ .\nhttps://fnl.pro/pari/matches/7349
+URL:https://fnl.pro/pari/matches/7349
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7331@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Шинник
+DESCRIPTION:ФНЛ\, 20-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 27.11 и 30.11
+ .\nhttps://fnl.pro/pari/matches/7331
+URL:https://fnl.pro/pari/matches/7331
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7322@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261208
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Енисей – Урал
+DESCRIPTION:ФНЛ\, 21-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 04.12 и 07.12
+ .\nhttps://fnl.pro/pari/matches/7322
+URL:https://fnl.pro/pari/matches/7322
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7318@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270309
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Торпедо Москва – Урал
+DESCRIPTION:ФНЛ\, 22-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 05.03 и 08.03
+ .\nhttps://fnl.pro/pari/matches/7318
+URL:https://fnl.pro/pari/matches/7318
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7302@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270316
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Текстильщик – Урал
+DESCRIPTION:ФНЛ\, 23-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 12.03 и 15.03
+ .\nhttps://fnl.pro/pari/matches/7302
+URL:https://fnl.pro/pari/matches/7302
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7280@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Спартак (Кострома)
+DESCRIPTION:ФНЛ\, 24-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 19.03 и 21.03
+ .\nhttps://fnl.pro/pari/matches/7280
+URL:https://fnl.pro/pari/matches/7280
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7262@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270406
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Сочи
+DESCRIPTION:ФНЛ\, 25-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 02.04 и 05.04
+ .\nhttps://fnl.pro/pari/matches/7262
+URL:https://fnl.pro/pari/matches/7262
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7248@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270413
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Велес – Урал
+DESCRIPTION:ФНЛ\, 26-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 09.04 и 12.04
+ .\nhttps://fnl.pro/pari/matches/7248
+URL:https://fnl.pro/pari/matches/7248
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7226@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Ротор
+DESCRIPTION:ФНЛ\, 27-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 13.04 и 15.04
+ .\nhttps://fnl.pro/pari/matches/7226
+URL:https://fnl.pro/pari/matches/7226
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7216@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270420
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Ленинградец
+DESCRIPTION:ФНЛ\, 28-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 16.04 и 19.04
+ .\nhttps://fnl.pro/pari/matches/7216
+URL:https://fnl.pro/pari/matches/7216
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7205@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270427
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Волга – Урал
+DESCRIPTION:ФНЛ\, 29-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 23.04 и 26.04
+ .\nhttps://fnl.pro/pari/matches/7205
+URL:https://fnl.pro/pari/matches/7205
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7198@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270504
+TRANSP:TRANSPARENT
+SUMMARY:⏳ КАМАЗ – Урал
+DESCRIPTION:ФНЛ\, 30-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 30.04 и 03.05
+ .\nhttps://fnl.pro/pari/matches/7198
+URL:https://fnl.pro/pari/matches/7198
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7189@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270511
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – СКА-Хабаровск
+DESCRIPTION:ФНЛ\, 31-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 07.05 и 10.05
+ .\nhttps://fnl.pro/pari/matches/7189
+URL:https://fnl.pro/pari/matches/7189
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7182@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270518
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Нефтехимик
+DESCRIPTION:ФНЛ\, 32-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 14.05 и 17.05
+ .\nhttps://fnl.pro/pari/matches/7182
+URL:https://fnl.pro/pari/matches/7182
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7167@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270525
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Нижний Новгород – Урал
+DESCRIPTION:ФНЛ\, 33-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 21.05 и 24.05
+ .\nhttps://fnl.pro/pari/matches/7167
+URL:https://fnl.pro/pari/matches/7167
+END:VEVENT
+BEGIN:VEVENT
+UID:fnl-100-match-7154@ural.club-calendar
+DTSTAMP:20261009T133500Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Урал – Челябинск
+DESCRIPTION:ФНЛ\, 34-й тур (сезон 2026/2027)\nДата ещё 
+ не назначена: матч пройдёт между 29.05 и 29.05
+ .\nhttps://fnl.pro/pari/matches/7154
+URL:https://fnl.pro/pari/matches/7154
+END:VEVENT
+END:VCALENDAR

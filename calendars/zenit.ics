@@ -1,0 +1,491 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//club-calendar//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Зенит — матчи
+X-WR-CALDESC:Все матчи Зенит во всех турнирах. 
+ Источники: sports.ru
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-neftchi-fergana-h-1@zenit.club-calenda
+ r
+DTSTAMP:20261009T133501Z
+DTSTART:20260708T160000Z
+DTEND:20260708T180000Z
+SUMMARY:Зенит 4:1 Нефтчи Фергана
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/neftchi-fergana-vs-zenit/
+URL:https://www.sports.ru/football/match/neftchi-fergana-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-crvena-zvezda-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260712T160000Z
+DTEND:20260712T180000Z
+SUMMARY:Зенит 3:1 Црвена Звезда
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/crvena-zvezda-vs-zenit/
+URL:https://www.sports.ru/football/match/crvena-zvezda-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-dinamo-mx-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260713T140000Z
+DTEND:20260713T160000Z
+SUMMARY:Зенит 1:1 Динамо Махачкала
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/1953800/
+URL:https://www.sports.ru/football/match/1953800/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1557680-russian-super-cup-spartak-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260718T163000Z
+DTEND:20260718T183000Z
+SUMMARY:Зенит 1:1 Спартак
+DESCRIPTION:Россия. Олимп Суперкубок России\nhtt
+ ps://www.sports.ru/football/match/1941705/
+URL:https://www.sports.ru/football/match/1941705/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-akron-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260725T131500Z
+DTEND:20260725T151500Z
+SUMMARY:Акрон 0:5 Зенит
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952352/
+URL:https://www.sports.ru/football/match/1952352/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-orenburg-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260802T130000Z
+DTEND:20260802T150000Z
+SUMMARY:Оренбург 0:3 Зенит
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952356/
+URL:https://www.sports.ru/football/match/1952356/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-baltika-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260805T174500Z
+DTEND:20260805T194500Z
+SUMMARY:Зенит 1:0 Балтика
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/1952843/
+URL:https://www.sports.ru/football/match/1952843/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rodina-moscow-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260809T140000Z
+DTEND:20260809T160000Z
+SUMMARY:Зенит 1:2 Родина
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952368/
+URL:https://www.sports.ru/football/match/1952368/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-dynamo-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260816T113000Z
+DTEND:20260816T133000Z
+SUMMARY:Зенит 3:0 Динамо
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952377/
+URL:https://www.sports.ru/football/match/1952377/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-krylia-sovetov-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260819T131500Z
+DTEND:20260819T151500Z
+SUMMARY:Крылья Советов 0:0 Зенит
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/1952878/
+URL:https://www.sports.ru/football/match/1952878/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-spartak-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+SUMMARY:Спартак 2:0 Зенит
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952381/
+URL:https://www.sports.ru/football/match/1952381/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-fakel-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260829T120000Z
+DTEND:20260829T140000Z
+SUMMARY:Факел 0:1 Зенит
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952393/
+URL:https://www.sports.ru/football/match/1952393/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-dinamo-mx-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260902T153000Z
+DTEND:20260902T173000Z
+SUMMARY:Зенит 3:0 Динамо Махачкала
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/1952900/
+URL:https://www.sports.ru/football/match/1952900/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-cska-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260905T133000Z
+DTEND:20260905T153000Z
+SUMMARY:Зенит 1:2 ЦСКА
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952645/
+URL:https://www.sports.ru/football/match/1952645/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-lokomotiv-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260912T131500Z
+DTEND:20260912T151500Z
+SUMMARY:Зенит 2:1 Локомотив
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952652/
+URL:https://www.sports.ru/football/match/1952652/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-baltika-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20260916T174500Z
+DTEND:20260916T194500Z
+SUMMARY:Балтика 2:3 Зенит
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952657/
+URL:https://www.sports.ru/football/match/1952657/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-shanghai-shenhua-a-1@zenit.club-calend
+ ar
+DTSTAMP:20261009T133501Z
+DTSTART:20260927T120000Z
+DTEND:20260927T140000Z
+SUMMARY:Шанхай Шэньхуа 0:0 Зенит
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/shanghai-shenhua-vs-zenit/
+URL:https://www.sports.ru/football/match/shanghai-shenhua-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1530166-club-friendlies-bate-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:Зенит 1:0 БАТЭ
+DESCRIPTION:Товарищеские матчи (клубы)\nhttps://www.s
+ ports.ru/football/match/bate-vs-zenit/
+URL:https://www.sports.ru/football/match/bate-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-krasnodar-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:Краснодар – Зенит
+LOCATION:Ozon Арена\, Краснодар
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/krasnodar-vs-zenit/
+URL:https://www.sports.ru/football/match/krasnodar-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-dinamo-mx-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261014T153000Z
+DTEND:20261014T173000Z
+SUMMARY:Динамо Махачкала – Зенит
+LOCATION:Анжи-Арена\, Каспийск
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/dinamo-mx-vs-zenit/
+URL:https://www.sports.ru/football/match/dinamo-mx-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-akhmat-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261018T110000Z
+DTEND:20261018T130000Z
+SUMMARY:Зенит – Ахмат
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/akhmat-vs-zenit/
+URL:https://www.sports.ru/football/match/akhmat-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-dinamo-mx-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261025T153000Z
+DTEND:20261025T173000Z
+SUMMARY:Зенит – Динамо Махачкала
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952684/
+URL:https://www.sports.ru/football/match/1952684/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-baltika-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261029T184500Z
+DTEND:20261029T204500Z
+SUMMARY:Балтика – Зенит
+LOCATION:Ростех Арена\, Калининград
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/baltika-vs-zenit/
+URL:https://www.sports.ru/football/match/baltika-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-krylia-sovetov-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261102T150000Z
+DTEND:20261102T170000Z
+SUMMARY:Крылья Советов – Зенит
+LOCATION:Самара-Арена\, Самара
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/krylia-sovetov-vs-zenit/
+URL:https://www.sports.ru/football/match/krylia-sovetov-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rostov-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261108T153000Z
+DTEND:20261108T173000Z
+SUMMARY:Зенит – Ростов
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/rostov-vs-zenit/
+URL:https://www.sports.ru/football/match/rostov-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rubin-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Рубин – Зенит
+LOCATION:Ак Барс Арена\, Казань
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/rubin-vs-zenit/
+URL:https://www.sports.ru/football/match/rubin-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573068-russian-cup-krylia-sovetov-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261124T163000Z
+DTEND:20261124T183000Z
+SUMMARY:Зенит – Крылья Советов
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. FONBET Кубок России\nhttps://www.sport
+ s.ru/football/match/1952940/
+URL:https://www.sports.ru/football/match/1952940/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-cska-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261128T133000Z
+DTEND:20261128T153000Z
+SUMMARY:ЦСКА – Зенит
+LOCATION:ВЭБ Арена\, Москва
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/cska-vs-zenit/
+URL:https://www.sports.ru/football/match/cska-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-baltika-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART:20261205T143000Z
+DTEND:20261205T163000Z
+SUMMARY:Зенит – Балтика
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nhttps://www.sports.ru/fo
+ otball/match/1952724/
+URL:https://www.sports.ru/football/match/1952724/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-fakel-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Факел
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/fakel-vs-zenit
+ /
+URL:https://www.sports.ru/football/match/fakel-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-orenburg-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Оренбург
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/orenburg-vs-ze
+ nit/
+URL:https://www.sports.ru/football/match/orenburg-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rodina-moscow-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Родина – Зенит
+LOCATION:Арена Химки\, Химки
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/rodina-moscow-
+ vs-zenit/
+URL:https://www.sports.ru/football/match/rodina-moscow-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-akron-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Акрон
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/akron-vs-zenit
+ /
+URL:https://www.sports.ru/football/match/akron-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rostov-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Ростов – Зенит
+LOCATION:Ростов-Арена\, Ростов-на-Дону
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952760/
+URL:https://www.sports.ru/football/match/1952760/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-lokomotiv-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Локомотив – Зенит
+LOCATION:стадион Локомотив\, Москва
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/lokomotiv-vs-z
+ enit/
+URL:https://www.sports.ru/football/match/lokomotiv-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-krylia-sovetov-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Крылья Советов
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952781/
+URL:https://www.sports.ru/football/match/1952781/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-akhmat-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Ахмат – Зенит
+LOCATION:Ахмат-Арена\, Грозный
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952785/
+URL:https://www.sports.ru/football/match/1952785/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-krasnodar-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Краснодар
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952796/
+URL:https://www.sports.ru/football/match/1952796/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-dinamo-mx-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Динамо Махачкала – Зенит
+LOCATION:Анжи-Арена\, Каспийск
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952801/
+URL:https://www.sports.ru/football/match/1952801/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-spartak-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Спартак
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/spartak-vs-zen
+ it/
+URL:https://www.sports.ru/football/match/spartak-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-dynamo-a-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Динамо – Зенит
+LOCATION:ВТБ Арена\, Москва
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/dynamo-vs-zeni
+ t/
+URL:https://www.sports.ru/football/match/dynamo-vs-zenit/
+END:VEVENT
+BEGIN:VEVENT
+UID:sportsru-1573056-rfpl-rubin-h-1@zenit.club-calendar
+DTSTAMP:20261009T133501Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:⏳ Зенит – Рубин
+LOCATION:Газпром Арена\, Санкт-Петербург
+DESCRIPTION:Россия. Премьер-лига\nВремя\, а возм
+ ожно и дата\, ещё не назначены: день ориен
+ тировочный.\nhttps://www.sports.ru/football/match/1952829/
+URL:https://www.sports.ru/football/match/1952829/
+END:VEVENT
+END:VCALENDAR
